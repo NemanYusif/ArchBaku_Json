@@ -1,0 +1,21 @@
+{
+  "name": "archbaku_json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemanYusif/ArchBaku_Json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemanYusif/ArchBaku_Json/issues"
+  },
+  "homepage": "https://github.com/NemanYusif/ArchBaku_Json#readme"
+}
